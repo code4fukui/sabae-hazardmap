@@ -2,7 +2,9 @@
 
 - [鯖江市ハザードマップ](https://code4fukui.github.io/sabae-hazardmap/)
 
-市区町村の Web ハザードマップを作成するためのテンプレート「市区町村ハザードマップテンプレート」を使用しています。
+市区町村の Web ハザードマップを作成するためのテンプレート「[市区町村ハザードマップテンプレート](https://github.com/sankichi92/shikuchoson-hazardmap-template)」を使用しています。
+
+## 市区町村ハザードマップテンプレート
 
 [Tokyo OSS Party!!](https://tokyo-oss-party.com/) 2021 の成果物です。\
 発表資料は https://speakerdeck.com/sankichi92/shikuchoson-hazardmap-template
