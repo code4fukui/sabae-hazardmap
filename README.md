@@ -1,6 +1,7 @@
 # 鯖江市ハザードマップ
 
 - [鯖江市ハザードマップ](https://code4fukui.github.io/sabae-hazardmap/)
+- 鯖江市のオープンデータ、[データシティ鯖江](https://data.city.sabae.lg.jp/)から避難所、一時避難所、医療機関オープンデータを使用
 
 市区町村の Web ハザードマップを作成するためのテンプレート「[市区町村ハザードマップテンプレート](https://github.com/sankichi92/shikuchoson-hazardmap-template)」を使用しています。
 
